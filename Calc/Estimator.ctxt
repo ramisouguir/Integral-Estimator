@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Estimator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Estimator\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=equation\ index
+comment10.target=java.lang.String\ getPieceBefore(java.lang.String,\ int)
+comment2.params=dpieces\ xcord
+comment2.target=double\ slopeAtPoint(java.util.ArrayList,\ double)
+comment3.params=equation\ thresh\ iterations\ start\ end
+comment3.target=float\ finalEstimate(java.lang.String,\ float,\ int,\ float,\ float)
+comment4.params=equation
+comment4.target=java.util.ArrayList\ calculateDerivative(java.lang.String)
+comment5.params=equation
+comment5.target=java.util.ArrayList\ splitUpEquation(java.lang.String)
+comment6.params=equation
+comment6.target=java.lang.String\ powerRule(java.lang.String)
+comment7.params=equation\ index
+comment7.target=java.lang.String\ numberBefore(java.lang.String,\ int)
+comment8.params=equation\ index
+comment8.target=java.lang.String\ numberAfter(java.lang.String,\ int)
+comment9.params=equation\ index
+comment9.target=boolean\ isNegative(java.lang.String,\ int)
+numComments=11
